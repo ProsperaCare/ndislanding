@@ -70,9 +70,9 @@ export default function HeroHome() {
               data-aos="zoom-y-out"
               data-aos-delay={150}
             >
-              Streamline Your NDIS Practice: 
+              Streamline Your NDIS Practice
 <br className="max-lg:hidden" />
-              Invoicing, Agreements & Reports in Minutes
+             
             </h1>
             <div className="mx-auto max-w-3xl">
               <p
@@ -95,7 +95,7 @@ export default function HeroHome() {
                     href="#0"
                   >
                     <span className="relative inline-flex items-center">
-                      Start Free Trial{" "}
+                      Get Started{" "}
                       <span className="ml-1 tracking-normal text-blue-300 transition-transform group-hover:translate-x-0.5">
                         -&gt;
                       </span>
@@ -105,7 +105,7 @@ export default function HeroHome() {
                     className="btn w-full bg-white text-gray-800 shadow-sm hover:bg-gray-50 sm:ml-4 sm:w-auto"
                     href="#0"
                   >
-                    Learn More
+                    Demo
                   </a>
                 </div>
               </div>
