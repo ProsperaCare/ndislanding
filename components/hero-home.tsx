@@ -80,8 +80,9 @@ export default function HeroHome() {
                 data-aos="zoom-y-out"
                 data-aos-delay={300}
               >
-                Simple is a modern website builder powered by AI that changes
-                how companies create user interfaces together.
+                Create invoices, service agreements, and incident reports in minutes, effortlessly from one secure dashboard.
+
+
               </p>
               <div className="relative before:absolute before:inset-0 before:border-y before:[border-image:linear-gradient(to_right,transparent,--theme(--color-slate-300/.8),transparent)1]">
                 <div
